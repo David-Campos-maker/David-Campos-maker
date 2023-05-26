@@ -35,6 +35,9 @@
 #Skills - https://dev.to/envoy_/150-badges-for-github-pnk
 <div style="display: inline_block">
   <img style="border-radius: 5px" align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img style="border-radius: 5px" align="center" alt="" height="30" width="50" src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)"/>
+  <img style="border-radius: 5px" align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img style="border-radius: 5px" align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
   
