@@ -1,5 +1,7 @@
 *Your text here - if u want emojis https://emojipedia.org/
 
+<hr style="height: 1px"/>
+
 <div>
   <a href="https://github.com/{yourRepoName}">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=David-Campos-maker&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
@@ -9,7 +11,7 @@
 
 #Contact
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img align="center" alt="davidcamposcruz2016@gmail.com" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 #Group
