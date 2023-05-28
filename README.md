@@ -2,7 +2,7 @@
 <p>I'm a Computer Engineering student and I'm always looking for more experiences 😄</p>
   <ul>
       <li>Frontend and Backend Developer 💻</li>
-      <li>Recently I've been studying OSINT and web development with Angular 📚</li>
+      <li>Recently I've been studying web development with Angular 📚</li>
       <li>I never get tired of learning new things 🤓</li>  
   <ul/>
 
