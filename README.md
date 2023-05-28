@@ -1,4 +1,10 @@
-*Your text here - if u want emojis https://emojipedia.org/
+<h4>Hey! I`m David!</h4>
+<p>I'm a Computer Engineering student and I'm always looking for more experiences 😄</p>
+  <ul>
+      <li>Frontend and Backend Developer 💻</li>
+      <li>Recently I've been studying OSINT and web development with Angular 📚</li>
+      <li>I never get tired of learning new things 🤓</li>  
+  <ul/>
 
 <hr style="height: 1px"/>
 
@@ -7,34 +13,24 @@
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=David-Campos-maker&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
   <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Campos-maker&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-**git Stats - https://github.com/anuraghazra/github-readme-stats
+  
+<hr style="height: 1px"/>
 
-#Contact
+<h3>📬 Contact:</h3>  
 <div style="display: inline_block">
-  <img align="center" alt="davidcamposcruz2016@gmail.com" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="davidcamposcruz2016@gmail.com?"><img style="border-radius: 10px" align="center" alt="" height="30" width="65" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+  
+<hr style="height: 1px"/>
 
-#Group
+  <h3>📱 Social:</h3>
 <div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/david-campos-0a7868213/"><img style="border-radius: 10px" align="center" alt="" height="30" width="75" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+  
+<hr style="height: 1px"/>
 
-#Social
-<div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
-
-#OS
-<div style="display: inline_block">
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align="center" alt="" height="30" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</div>
-
-<h4>🚀 #Skills<h4/>  
+<h3>🚀 Skills:</h3>  
 <div style="display: inline_block">
   <img style="border-radius: 10px" align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img style="border-radius: 10px" align="center" alt="" height="30" width="68" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
