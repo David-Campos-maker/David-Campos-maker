@@ -18,7 +18,7 @@
 
 <h3>📬 Contact:</h3>  
 <div style="display: inline_block">
-  <a href="mailto:davidcamposcruz2016@gmail.com subject=subject text"><img style="border-radius: 10px" align="center" alt="" height="30" width="65" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:davidcamposcruz2016@gmail.com"><img style="border-radius: 10px" align="center" alt="" height="30" width="65" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
   
 <hr style="height: 1px"/>
