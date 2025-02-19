@@ -1,53 +1,21 @@
-<h4>Hey! I`m David!</h4>
-<p>I'm a Computer Engineering student and I'm always looking for more experiences 😄</p>
-  <ul>
-      <li>Frontend and Backend Developer 💻</li>
-      <li>Recently I've been studying web development with Angular 📚</li>
-      <li>I never get tired of learning new things 🤓</li>  
-  <ul/>
+# 💫 About Me:
+🤝 I’m looking for new work and collaboration opportunities<br>🌱 I’m currently learning Django and React.js<br>💬 Ask me about Vue.js, GCP, .NET and Python<br>⚡ Full Stack Developer graduated in Computer Engineering
 
-<hr/>
 
-<div>
-  <a href="https://github.com/{yourRepoName}">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=David-Campos-maker&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
-  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Campos-maker&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
-  
-<hr>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidcampos-fullstackdev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidcamposcruz2016@gmail.com) 
 
-<h3>📬 Contact: </h3>  
-<div style="display: inline-block">
-  <a href="mailto:davidcamposcruz2016@gmail.com"><img class="rounded-3 m-2" align="center" alt="" height="30" width="65" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:Dav_idCampos_Cruz@outlook.com"><img class="rounded-3 m-2" align="center" alt="" height="30" width="130" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="mailto:Dav_idCampos_Cruz@proton.me"><img class="rounded-3 m-2" align="center" alt="" height="30" width="110" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-</div>
-  
-<hr/>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=David-Campos-maker&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=David-Campos-maker&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Campos-maker&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <h3>📱 Social: </h3>
-<div style="display: inline-block">
-  <a href="https://www.linkedin.com/in/david-campos-0a7868213/"><img class="rounded-3 m-2" align="center" alt="" height="30" width="75" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-  
-<hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=David-Campos-maker&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h3>🚀 Skills: </h3>  
-<div style="display: inline-block">
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="68" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="77" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="94" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="124" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="124" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="73" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="73" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="86" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="104" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="121" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img class="rounded-3 m-2" align="center" alt="" height="30" width="94" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=David-Campos-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-  ![Snake animation](https://github.com/David-Campos-maker/David-Campos-maker/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
